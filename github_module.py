@@ -133,41 +133,6 @@ class GitHubIntegration:
 
         return None
 
-    def format_wiki_content(self, tools: List[Dict]) -> str:
-        content = "# Verification Tools List\n\n"
-        content += f"*actualizat: {datetime.now().strftime('%Y-%m-%d %H:%M')} UTC*\n\n"
-        content += "*versiune beta*\n\n"
-        categories = {}
-        for tool in tools:
-            cat = tool.get('category', 'other')
-            if cat not in categories:
-                categories[cat] = []
-            categories[cat].append(tool)
-
-        for category, cat_tools in categories.items():
-            content += f"## {category.replace('_', ' ').title()}\n\n"
-
-            for tool in cat_tools:
-                content += f"### {tool.get('name', 'necunoscut')}\n"
-
-                if tool.get('description'):
-                    desc = tool['description'][:200]
-                    content += f"{desc}\n\n"
-
-                if tool.get('doi'):
-                    content += f"- **DOI**: {tool['doi']}\n"
-                if tool.get('url'):
-                    content += f"- **URL**: [{tool['url']}]({tool['url']})\n"
-                if tool.get('authors'):
-                    authors = ', '.join(tool['authors'][:3])
-                    if len(tool['authors']) > 3:
-                        authors += " et al."
-                    content += f"- **Autori**: {authors}\n"
-
-                content += "\n---\n\n"
-
-        return content
-
     def create_pull_request(self, branch_name: str, title: str,
                             body: str) -> Optional[str]:
         if not self.token:
@@ -236,23 +201,12 @@ class GitHubIntegration:
 
 def test_github():
     github = GitHubIntegration()
-    github.set_repository("EuroProofNet", "ProgramVerification")
+    github.set_repository("andreixdbolos", "proiect-vf")
 
     limits = github.check_rate_limit()
     print(f"test github: ramas {limits['remaining']}")
 
     has_access = github.check_repository_access()
     print(f"test: acces repo {has_access}")
-
-    sample_tools = [{
-        'name': 'Test Tool',
-        'category': 'functional_correctness',
-        'description': 'test desc',
-        'doi': '10.5555/test',
-        'authors': ['Test Author']
-    }]
-
-    wiki_content = github.format_wiki_content(sample_tools)
-    print(f"test: wiki lungime {len(wiki_content)}")
 
     return True
