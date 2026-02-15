@@ -1,0 +1,3580 @@
+[
+  {
+    "name": "Reproduction Package for FMSD Article `Construction of Verifier Combinations From Off-the-Shelf Components'",
+    "description": "This file describes the contents of the reproduction package for the article &ldquo;Construction of Verifier Combinations From Off-the-Shelf Components&rdquo;, submitted to FMSD. It contains the experimental data for the evaluation done for the article.\n\nContents of this Archive\n\n    .\n    |-- benchdefs/                       # generated benchmark definition files\n    |-- benchexec/                       # submodule of the BenchExec project: https://github.com/sosy-lab/benchexec\n    |-- cover...",
+    "category": "termination",
+    "source": "zenodo",
+    "source_id": 7838348,
+    "doi": "10.5281/zenodo.7838348",
+    "authors": [
+      "Beyer, Dirk",
+      "Kanav, Sudeep",
+      "Kleinert, Tobias",
+      "Richter, Cedric"
+    ],
+    "keywords": [
+      "Software verification",
+      "Program analysis",
+      "Cooperative verification",
+      "Tool Combinations",
+      "Portfolio",
+      "Algorithm Selection",
+      "CoVeriTeam"
+    ],
+    "url": "https://zenodo.org/api/records/7838348",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Reproduction Package for SEFM 2020 Article `Difference Verification with Conditions'",
+    "description": "# Replication Package for Article &quot;Difference Verification with Conditions&quot;, SEFM &#39;20\n\nThis replication package supports reproducing the claims of the SEFM 2020 publication\n&quot;D. Beyer, M.-C. Jakobs, and T. Lemberger: Difference Verification with Conditions&quot;.\n\nDifference verification with conditions is an incremental program\nverification technique that can be integrated in software projects at any time.\nIt first applies a change analysis that detects which parts of a sof...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 3954933,
+    "doi": "10.5281/zenodo.3954933",
+    "authors": [
+      "Beyer, Dirk",
+      "Jakobs, Marie-Christine",
+      "Lemberger, Thomas"
+    ],
+    "keywords": [
+      "Software verification",
+      "Program analysis",
+      "Compositional verification",
+      "Incremental verification",
+      "Regression verification"
+    ],
+    "url": "https://zenodo.org/api/records/3954933",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "The 2LS Software Verification Framework for SV-COMP 2020",
+    "description": "The version the 2LS verification framework used in the 9th Competition on Software Verification&nbsp;(SV-COMP 2020).",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 3678347,
+    "doi": "10.5281/zenodo.3678347",
+    "authors": [
+      "Viktor Malík",
+      "Peter Schrammel",
+      "Tomáš Vojnar"
+    ],
+    "keywords": [
+      "2LS",
+      "SV-COMP",
+      "software verification",
+      "program verification",
+      "International Competition on Software Verification"
+    ],
+    "url": "https://zenodo.org/api/records/3678347",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Verification Witnesses from Verification Tools (SV-COMP 2021)",
+    "description": "Verification Witnesses\n\nThis file describes the contents of an archive of the 10th Competition on Software Verification (SV-COMP 2021).\nhttps://sv-comp.sosy-lab.org/2021/\n\nThe competition was run by Dirk Beyer, LMU Munich, Germany.\nMore information is available in the following article:\nDirk Beyer. Software Verification: 10th Comparative Evaluation (SV-COMP 2021). In Proceedings of the 27th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 20...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 4459196,
+    "doi": "10.5281/zenodo.4459196",
+    "authors": [
+      "Beyer, Dirk"
+    ],
+    "keywords": [
+      "Software Verification",
+      "Program Analysis",
+      "Software Bugs",
+      "Program Invariants"
+    ],
+    "url": "https://zenodo.org/api/records/4459196",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Dataset",
+        "type": "dataset"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Verification Witnesses from Verification Tools (SV-COMP 2019)",
+    "description": "This data set contains verification witnesses produced by tools for software verification that participated in the 8th International Competition on Software Verification (SV-COMP 2019).",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 2559175,
+    "doi": "10.5281/zenodo.2559175",
+    "authors": [
+      "Beyer, Dirk"
+    ],
+    "keywords": [
+      "Software Verification, Program Analysis, Software Bugs, Program Invariants"
+    ],
+    "url": "https://zenodo.org/api/records/2559175",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Dataset",
+        "type": "dataset"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Verification Witnesses from Verification Tools (SV-COMP 2020)",
+    "description": "This data set contains verification witnesses produced by tools for software verification that participated in the 9th International Competition on Software Verification (SV-COMP 2020).",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 3630188,
+    "doi": "10.5281/zenodo.3630188",
+    "authors": [
+      "Beyer, Dirk"
+    ],
+    "keywords": [
+      "Software Verification",
+      "Program Analysis",
+      "Software Bugs",
+      "Program Invariants"
+    ],
+    "url": "https://zenodo.org/api/records/3630188",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Dataset",
+        "type": "dataset"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "CPAchecker Release 4.2.2 (image)",
+    "description": "Changes from CPAchecker 4.2.1 to CPAchecker 4.2.2\n\nFix unintended export of witnesses in v2 format in SV-COMP'26 config for cases where the format is not defined yet.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 17787588,
+    "doi": "10.5281/zenodo.17787588",
+    "authors": [
+      "Beyer, Dirk",
+      "Wendler, Philipp"
+    ],
+    "keywords": [
+      "Software Verification",
+      "Model Checking",
+      "Program Analysis"
+    ],
+    "url": "https://zenodo.org/api/records/17787588",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artifact for the CAV 2023 paper \"Automatic Program Instrumentation for Automatic Verification\"",
+    "description": "Artifact accompanying the CAV 2023 paper &quot;Automatic Program Instrumentation for Automatic Verification&quot;.\n\nThe artifact is contained inside a Virtualbox VM image (Ubuntu 20.04 LTS) that is adapted from the TACAS 2022 Artifact Evaluation VM by&nbsp;Swen Jacobs and Andrew Reynolds.\n\nThe artifact is located at the directory\n\n/home/cav23/artifact-168\n\nPlease refer to the README.md file located in the same directory for instructions on how to reproduce our results from the paper and how t...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 7875416,
+    "doi": "10.5281/zenodo.7875416",
+    "authors": [
+      "Amilon, Jesper",
+      "Esen, Zafer",
+      "Gurov, Dilian",
+      "Lidström, Christian",
+      "Rümmer, Philipp"
+    ],
+    "keywords": [
+      "CAV",
+      "Artifact",
+      "Software verification",
+      "Program Instrumentation"
+    ],
+    "url": "https://zenodo.org/api/records/7875416",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Goblint in SV-COMP 2026",
+    "description": "Goblint verifier and validator submitted to SV-COMP 2026.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 17642247,
+    "doi": "10.5281/zenodo.17642247",
+    "authors": [
+      "Saan, Simmo",
+      "Kocal, Ali Rasim",
+      "Petter, Michael",
+      "Holter, Karoliine",
+      "Erhard, Julian",
+      "Schwarz, Michael",
+      "Vojdani, Vesal",
+      "Seidl, Helmut"
+    ],
+    "keywords": [
+      "Goblint",
+      "SV-COMP",
+      "software verification",
+      "program verification",
+      "abstract interpretation"
+    ],
+    "url": "https://zenodo.org/api/records/17642247",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Goblint at SV-COMP 2024",
+    "description": "Goblint verifier and validator submitted to SV-COMP 2024.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 10202867,
+    "doi": "10.5281/zenodo.10202867",
+    "authors": [
+      "Saan, Simmo",
+      "Erhard, Julian",
+      "Schwarz, Michael",
+      "Bozhilov, Stanimir",
+      "Holter, Karoliine",
+      "Tilscher, Sarah",
+      "Vojdani, Vesal",
+      "Seidl, Helmut"
+    ],
+    "keywords": [
+      "Goblint",
+      "SV-COMP",
+      "software verification",
+      "program verification",
+      "abstract interpretation"
+    ],
+    "url": "https://zenodo.org/api/records/10202867",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Goblint at SV-COMP 2021",
+    "description": "Goblint verifier submitted to SV-COMP 2021.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 4485853,
+    "doi": "10.5281/zenodo.4485853",
+    "authors": [
+      "Saan, Simmo",
+      "Schwarz, Michael",
+      "Apinis, Kalmer",
+      "Erhard, Julian",
+      "Seidl, Helmut",
+      "Vogler, Ralf",
+      "Vojdani, Vesal"
+    ],
+    "keywords": [
+      "Goblint",
+      "SV-COMP",
+      "software verification",
+      "program verification",
+      "abstract interpretation"
+    ],
+    "url": "https://zenodo.org/api/records/4485853",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Goblint at SV-COMP 2023",
+    "description": "Goblint verifier submitted to SV-COMP 2023.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 7467093,
+    "doi": "10.5281/zenodo.7467093",
+    "authors": [
+      "Saan, Simmo",
+      "Schwarz, Michael",
+      "Erhard, Julian",
+      "Pietsch, Manuel",
+      "Seidl, Helmut",
+      "Tilscher, Sarah",
+      "Vojdani, Vesal"
+    ],
+    "keywords": [
+      "Goblint",
+      "SV-COMP",
+      "software verification",
+      "program verification",
+      "abstract interpretation"
+    ],
+    "url": "https://zenodo.org/api/records/7467093",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Goblint at SV-COMP 2025",
+    "description": "Goblint verifier and validator submitted to SV-COMP 2025.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 14054652,
+    "doi": "10.5281/zenodo.14054652",
+    "authors": [
+      "Saan, Simmo",
+      "Holter, Karoliine",
+      "Erhard, Julian",
+      "Schwarz, Michael",
+      "Tilscher, Sarah",
+      "Vojdani, Vesal",
+      "Seidl, Helmut"
+    ],
+    "keywords": [
+      "Goblint",
+      "SV-COMP",
+      "software verification",
+      "program verification",
+      "abstract interpretation"
+    ],
+    "url": "https://zenodo.org/api/records/14054652",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Issues in Compiling",
+    "description": "We consider the state of the art in compiler construction and where to go from here. Main topics are improved exploitation of present (and future) hardware features, the interaction between compiling techniques and processor design, and the use of compiling techniques in application areas such as component-based software engineering and software reengineering.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 6995989,
+    "doi": "10.3217/jucs-007-05-0410",
+    "authors": [
+      "Goos, Gerhard"
+    ],
+    "keywords": [
+      "compilers",
+      "software/program verification",
+      "reusable software",
+      "program transformation",
+      "program synthesis"
+    ],
+    "url": "https://zenodo.org/api/records/6995989",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Journal article",
+        "type": "publication",
+        "subtype": "article"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "An open architecture control system for multi‐axis wood CNC machining center",
+    "description": "Abstract:\n\nThis paper presents an open architecture control system for multi‐axis wood computer numerical control (CNC) milling machining centre, based on LinuxCNC. The wood CNC machining system is supported by an equivalent virtual machine in a CAD/CAM environment, as well as in the control system. Simulation within virtual environment is essential for multi‐axis machining, and the developed virtual machines are used for program verification and monitoring of the machining process. The virtu...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 8366280,
+    "doi": "10.5281/zenodo.8366280",
+    "authors": [
+      "S. Živanović",
+      "Z. Dimić",
+      "A. Rakić",
+      "M. Knežević",
+      "S. Mitrović"
+    ],
+    "keywords": [
+      "virtual machine",
+      "programming",
+      "wood CNC machine tool",
+      "CAD",
+      "CAM"
+    ],
+    "url": "https://zenodo.org/api/records/8366280",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Conference paper",
+        "type": "publication",
+        "subtype": "conferencepaper"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Reproduction Package for TACAS 2022 Article `CoVeriTeam: On-Demand Composition of Cooperative Verification Systems'",
+    "description": "This file describes the contents of the replication package for the article &ldquo;CoVeriTeam: On-Demand Composition of Cooperative Verification Systems&rdquo;, submitted to TACAS 2022.\n\nThis artifact has been created for evaluation using TACAS&rsquo;22 Artifact Evaluation Virtual Machine for VirtualBox available via Zenodo (https://doi.org/10.5281/zenodo.5537146).\n\nAuthors\n\nDirk Beyer and Sudeep Kanav LMU Munich, Germany\n\nLicense\n\nSPDX-License-Identifier: CC-BY-4.0 https://spdx.org/licenses/...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 5644953,
+    "doi": "10.5281/zenodo.5644953",
+    "authors": [
+      "Dirk Beyer",
+      "Sudeep Kanav"
+    ],
+    "keywords": [
+      "Software verification",
+      "Program analysis",
+      "Automatic verification",
+      "Interactive verification",
+      "Domain-specific language",
+      "Composition"
+    ],
+    "url": "https://zenodo.org/api/records/5644953",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Replication Package for Article \"Correctness Witnesses: Exchanging Verification Results between Verifiers\"",
+    "description": "Supplementary VM for the research article &quot;Correctness Witnesses: Exchanging Verification Results Between Verifiers&quot; by Dirk Beyer, Matthias Dangl, Daniel Dietsch, and Matthias Heizmann. FSE 2016.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 1143701,
+    "doi": "10.5281/zenodo.1143701",
+    "authors": [
+      "Beyer, Dirk",
+      "Dangl, Matthias",
+      "Dietsch, Daniel",
+      "Heizmann, Matthias"
+    ],
+    "keywords": [
+      "Verification Witnesses",
+      "Software Verification",
+      "Program Analysis",
+      "Model Checking",
+      "Certifying Algorithms"
+    ],
+    "url": "https://zenodo.org/api/records/1143701",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "ForEx: Automated Software Verification of Hyperliveness",
+    "description": "This is the accompanying artifact for\n\nRaven Beutner. Automated Software Verification of Hyperliveness. International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS) 2024.\n\nThe artifact contains the tool&nbsp;ForEx, a verifier for hyperliveness properties.\nNote: This artifact is designed to run (and only run) in this&nbsp;VM. For instructions on how to install the latest version of&nbsp;ForEx on your machine visit github.com/ravenbeutner/ForEx.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 10436583,
+    "doi": "10.5281/zenodo.10436583",
+    "authors": [
+      "Beutner, Raven"
+    ],
+    "keywords": [
+      "Hyperproperties",
+      "Relational Properties",
+      "Software Verification",
+      "Program Logic",
+      "Computer Aided Verification"
+    ],
+    "url": "https://zenodo.org/api/records/10436583",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Replication Package for article  \"diffDP: Using Data Dependencies and Properties in Difference Verification with Conditions\"",
+    "description": "This artifact provides the replication package for the article\n\nMarie-Christine Jakobs, TU Darmstadt/LMU Munich, Germany\nTim Pollandt, TU Darmstadt, Germany\ndiffDP: Using Data Dependencies and Properties in Difference Verification with Conditions\nIn Proceedings of 18th International Conference on integrated Formal Methods (iFM), Springer, 2023.\n\nThe paper presents an approach that enhances difference verification with conditions. Difference verification with conditions is a regression verific...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 8272913,
+    "doi": "10.5281/zenodo.8272913",
+    "authors": [
+      "Jakobs, Marie-Christine",
+      "Pollandt, Tim"
+    ],
+    "keywords": [
+      "Replication artifact",
+      "Software verification",
+      "Software model checking",
+      "Regression verification",
+      "Incremental verification",
+      "Difference verification with conditions",
+      "Conditional model checking"
+    ],
+    "url": "https://zenodo.org/api/records/8272913",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Reproduction Package (Virtual Machine) for CAV 2020 Article `MetaVal: Witness Validation via Verification'",
+    "description": "The virtual machine (VM) is configured to use 2 CPU cores and 10 GB of RAM.\nBoth values can be lowered in case the host system does not provide these resources.\nThe memory was chosen to be 10 GB in order to guarantee\nthat at least 7 GB are available to MetaVal in order to be consistent with the resource limits\nthat seem to be standard in the community and are used by SV-COMP.\n\nThe VM was created with VirtualBox in version 5.2.34 and tested on a host machine\nwith an i5-7440HQ CPU and 31 GB of ...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 3831417,
+    "doi": "10.5281/zenodo.3831417",
+    "authors": [
+      "Beyer, Dirk",
+      "Spiessl, Martin"
+    ],
+    "keywords": [
+      "Validation of verification results",
+      "Verification witnesses",
+      "Reducer",
+      "Computer-aided verification",
+      "Software verification",
+      "Program analysis"
+    ],
+    "url": "https://zenodo.org/api/records/3831417",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Reproduction Package for SEFM 2022 Article `Cooperation between Automatic and Interactive Software Verifiers'",
+    "description": "Reproduction Package for &ldquo;Cooperation between Automatic and Interactive Software Verifiers&rdquo;\n\nThis reproduction package provides a virtual machine to reproduce the results from our our SEFM 2022 publication Cooperation between Automatic and Interactive Software Verifiers.\n\nHardware Requirements\n\nRecommended: - 18 GB of RAM - 8 CPU cores - 150 GB of disk space\n\nMinimal: - 8 GB of RAM - 1 CPU core - 20 GB of disk space\n\nThe README.md details how resource limits for the experiments ca...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 6541544,
+    "doi": "10.5281/zenodo.6541544",
+    "authors": [
+      "Beyer, Dirk",
+      "Spiessl, Martin",
+      "Umbricht, Sven"
+    ],
+    "keywords": [
+      "Software verification",
+      "Program analysis",
+      "Invariant generation",
+      "Automatic verification",
+      "Interactive verification",
+      "CPAchecker",
+      "Frama-C"
+    ],
+    "url": "https://zenodo.org/api/records/6541544",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Improving Formal Verification with Portfolio-based Runtime Techniques: Dataset",
+    "description": "Evaluation Dataset of the Scientific Students&rsquo; Association Report&nbsp;titled&nbsp;Improving Formal Verification with Portfolio-based Runtime Techniques",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 5605708,
+    "doi": "10.5281/zenodo.5605708",
+    "authors": [
+      "Ádám, Zsófia"
+    ],
+    "keywords": [
+      "software verification, model checker, formal verification, C program verification, Theta"
+    ],
+    "url": "https://zenodo.org/api/records/5605708",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Dataset",
+        "type": "dataset"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "PredatorHP",
+    "description": "Linux binary, using gcc --version : \"gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0\"",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 10183805,
+    "doi": "10.5281/zenodo.10183805",
+    "authors": [
+      "Šoková, Veronika",
+      "Peringer, Petr",
+      "Vojnar, Tomas",
+      "Kinšt, Ondřej"
+    ],
+    "keywords": [
+      "Software verification",
+      "C language",
+      "Program analysis",
+      "Memory safety"
+    ],
+    "url": "https://zenodo.org/api/records/10183805",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Reproduction Package for ESEC/FSE 2020 Article `Domain-Independent Interprocedural Program Analysis using Block-Abstraction Memoization'",
+    "description": "This file describes the contents of the Reproduction package for the article\n&quot;Domain-Independent Interprocedural Program Analysis using Block-Abstraction Memoization&quot;,\nProc. ESEC/FSE 2020. ACM.\n\n\n# License:\n\nSPDX-License-Identifier: CC-BY-4.0\nhttps://spdx.org/licenses/CC-BY-4.0.html\n\nSome parts of this archive are licensed differently.\nFor details see `LICENSE.txt`.\n\n\n# Contents of this Archive:\n\n- `LICENSE.txt` :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; specifies the license...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 4024268,
+    "doi": "10.5281/zenodo.4024268",
+    "authors": [
+      "Beyer, Dirk",
+      "Friedberger, Karlheinz"
+    ],
+    "keywords": [
+      "Program Analysis",
+      "Interprocedural Analysis",
+      "Procedure Summary",
+      "Software Verification"
+    ],
+    "url": "https://zenodo.org/api/records/4024268",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:11",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artifact - Gillian, Part II: Real-World Verification for JavaScript and C",
+    "description": "We introduce compositional symbolic execution and verification based on separation logic to Gillian, a multi-language platform for the development of symbolic analysis tools. Our work develops a methodology for constructing compositional memory models for Gillian, leading to a unified presentation of the JavaScript and C memory models. We verify the JavaScript and C implementations of the Amazon AWS Encryption SDK message header deserialisation module, specifically designing common abstractio...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 4838116,
+    "doi": "10.5281/zenodo.4838116",
+    "authors": [
+      "Maksimović, Petar",
+      "Ayoun, Sacha-Élie",
+      "Fragoso Santos, José",
+      "Gardner, Philippa"
+    ],
+    "keywords": [
+      "Software Verification",
+      "Formal methods",
+      "Symbolic Execution"
+    ],
+    "url": "https://zenodo.org/api/records/4838116",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "A Calculus for Modular Loop Acceleration - Artifact Evaluation",
+    "description": "artifact associated with the TACAS &#39;20 paper &quot;A Calculus for Modular Loop Acceleration&quot;",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 3676348,
+    "doi": "10.5281/zenodo.3676348",
+    "authors": [
+      "Frohn, Florian"
+    ],
+    "keywords": [
+      "loop acceleration, software verification, formal methods"
+    ],
+    "url": "https://zenodo.org/api/records/3676348",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Applying the SCR Requirements Method to the Light Control Case Study",
+    "description": "To date, the SCR (Software Cost Reduction) requirements method has been used in industrial environments to specify the requirements of many practical systems, including control systems for nuclear power plants and avionics systems. This paper describes the use of the SCR method to specify the requirements of the Light Control System (LCS), the subject of a case study at the Dagstuhl Seminar on Requirements Capture, Documentation, and Validation in June 1999. It introduces a systematic process...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 6995857,
+    "doi": "10.3217/jucs-006-07-0650",
+    "authors": [
+      "Heitmeyer, Constance",
+      "Bharadwaj, Ramesh"
+    ],
+    "keywords": [
+      "software",
+      "software engineering",
+      "requirements",
+      "specifications",
+      "tools and techniques",
+      "formal verification"
+    ],
+    "url": "https://zenodo.org/api/records/6995857",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Journal article",
+        "type": "publication",
+        "subtype": "article"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Formal Verification and Design of Smart Stick for Blind People",
+    "description": "Researchers these days widely use formal verification to verify software and embedded systems. This paper is based on a smart stick (embedded system) designed for blind people. This embedded system design has been verified using model checking and formal verification. In this paper, an Arduino based stick has been proposed for blind users to help in their navigation by detecting the obstacles using Ultrasonic sensors and speech warning message. It is able to inform the blind person about the ...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 5148253,
+    "doi": "10.5281/zenodo.5148253",
+    "authors": [
+      "Ayesha Naveed"
+    ],
+    "keywords": [
+      "Assurance Technologies, blind navigation system, embedded systems, formal modeling, software verification"
+    ],
+    "url": "https://zenodo.org/api/records/5148253",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Journal article",
+        "type": "publication",
+        "subtype": "article"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Ten Years of Historical Development \"Bootstrapping\" VDMTools",
+    "description": "This article provides a historical overview of a decade of the development of the IFAD VDM Toolboxes commonly referred to as VDMTools. All along, the existing tools have been used in the development of new major components. This kind of \"bootstrapping \" approach where a CASE tool is developed by taking \"\"its own medicine\" is seldom used. However, we believe that this approach is important to be able to better understand what the most important improvements are for the users in practice. This ...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 6996039,
+    "doi": "10.3217/jucs-007-08-0692",
+    "authors": [
+      "Larsen, Peter"
+    ],
+    "keywords": [
+      "formal methods",
+      "software engineering",
+      "VDM",
+      "tool support"
+    ],
+    "url": "https://zenodo.org/api/records/6996039",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Journal article",
+        "type": "publication",
+        "subtype": "article"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "HW-SW Co-verification of Concurrent Programs",
+    "description": "In the ever-developing world of technology, more and more situations arise where the life of many people lay in the hands of computers - be it the processor of a self-driving car or an airplane, or the command center of a nuclear reactor. The most important expectation of critical software is that they should never fail in a way that could have been prevented. As there have already been many accounts of catastrophes that were caused by malfunctioning computers or programs, we need to verify t...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 5905601,
+    "doi": "10.5281/zenodo.5905601",
+    "authors": [
+      "Bajczi, Levente"
+    ],
+    "keywords": [
+      "formal verification",
+      "memory consistency",
+      "software model checking"
+    ],
+    "url": "https://zenodo.org/api/records/5905601",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Conference paper",
+        "type": "publication",
+        "subtype": "conferencepaper"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Replication Package for SEFM 2020 Article `FRed: Conditional Model Checking via Reducers and Folders'",
+    "description": "This is the replication package for the paper &quot;FRed: Conditional Model Checking via Reducers and Folders&quot; written by Dirk Beyer and Marie-Christine Jakobs. The paper is published in the proceedings of SEFM 2020.\n\nThe replication package is structured as follows:\n\nBASE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # the base fol...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 3953565,
+    "doi": "10.5281/zenodo.3953565",
+    "authors": [
+      "Beyer, Dirk",
+      "Jakobs, Marie-Christine"
+    ],
+    "keywords": [
+      "Software Verification"
+    ],
+    "url": "https://zenodo.org/api/records/3953565",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Results of the 9th International Competition on Software Verification (SV-COMP 2020)",
+    "description": "This archive contains the results of the\n9th Competition on Software Verification (SV-COMP 2020)\nhttps://sv-comp.sosy-lab.org/2020/\n\nThe competition was run by Dirk Beyer, LMU Munich, Germany.\n\nCopyright (C) Dirk Beyer\nhttps://www.sosy-lab.org/people/beyer/\n\nSPDX-License-Identifier: CC-BY-4.0\nhttps://spdx.org/licenses/CC-BY-4.0.html\n\n\nTo browse the competition results with a web browser, there are two options:\n- start a local web server using\n&nbsp; php -S localhost:8000\n&nbsp; in order to vi...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 3630205,
+    "doi": "10.5281/zenodo.3630205",
+    "authors": [
+      "Beyer, Dirk"
+    ],
+    "keywords": [
+      "Software Verification",
+      "Program Analysis",
+      "Software Bugs",
+      "Program Invariants",
+      "Competition",
+      "Formal Methods"
+    ],
+    "url": "https://zenodo.org/api/records/3630205",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Dataset",
+        "type": "dataset"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "AutoCorres 1.0",
+    "description": "AutoCorres is a tool for use with the Isabelle/HOL interactive theorem prover that attempts to simplify the verification of software programs written in the C programming language. In particular, it takes the output of Michael Norrish&#39;s C-to-Isabelle parser and abstracts it into a logical representation intended to be&nbsp;easier to manually verify properties about. This version of AutoCorres works with the Isabelle 2014 distribution.\n\nThe following papers are based on the work in this to...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 13342,
+    "doi": "10.5281/zenodo.13342",
+    "authors": [
+      "Greenaway, David",
+      "Lim, Japheth"
+    ],
+    "keywords": [
+      "software verification",
+      "Isabelle/HOL",
+      "C verification"
+    ],
+    "url": "https://zenodo.org/api/records/13342",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "QuAC – Quantifying Software Correctness Using Architecture Modeling and Formal Program Analysis",
+    "description": "Most formal methods see the correctness of a software system as a yes-no decision. However, the provable correctness of complex systems is limited because they are composed of multiple components, usage scenarios, and environments.\n\nWe present QuAC (&ldquo;Quantifying Architecture and Code&rdquo;), a modular approach for quantifying the error probability in service-oriented software systems by combining software architecture modeling with deductive verification. Our approach is based on a mod...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 7473812,
+    "doi": "10.5281/zenodo.7473812",
+    "authors": [
+      "Florian Lanzinger",
+      "Christian Martin",
+      "Frederik Reiche",
+      "Samuel Teuber",
+      "Robert Heinrich",
+      "Alexander Weigl"
+    ],
+    "keywords": [
+      "Service-oriented architecture",
+      "Component-based architecture",
+      "Architecture modeling",
+      "Deductive verification",
+      "Quantitative verification",
+      "Architecture simulation",
+      "Software reliability estimation"
+    ],
+    "url": "https://zenodo.org/api/records/7473812",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Stateless software model checking parameterized with memory consistency models",
+    "description": "Formal verification of multithreaded software running on multi-core hardware has for long been challenging for anything other than the simplest of programs. The complexity of dealing with the arbitrary interleavings of such a program makes it one of the hardest problems of software verification. However, the industry trend of introducing embedded multi-core processors into the world of safety critical systems makes it unavoidable having to deal with this problem, because formal methods are ev...",
+    "category": "complexity_bounds",
+    "source": "zenodo",
+    "source_id": 5905769,
+    "doi": "10.5281/zenodo.5905769",
+    "authors": [
+      "Bajczi, Levente"
+    ],
+    "keywords": [
+      "software model checking",
+      "formal verification",
+      "memory consistency model"
+    ],
+    "url": "https://zenodo.org/api/records/5905769",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Conference paper",
+        "type": "publication",
+        "subtype": "conferencepaper"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "C for Yourself: Comparison of Front-End Techniques for Formal Verification (Artifact Submission)",
+    "description": "This artifact serves to make the experimental evaluation of the paper &quot;C for Yourself: Comparison of Front-End Techniques for Formal Verification&quot; reproducible. It contains a virtual machine with all the necessary binaries of the tools and the benchmarking framework to rerun the benchmarks that were executed. It also contains the source code of the tools, should someone need to rebuild it.\n\nA few other configurations were also added: a really short smoke test to test if there are an...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 6372544,
+    "doi": "10.5281/zenodo.6372544",
+    "authors": [
+      "Bajczi, Levente",
+      "Ádám, Zsófia",
+      "Molnár, Vince"
+    ],
+    "keywords": [
+      "FormaliSE",
+      "CEGAR",
+      "LLVM",
+      "Formal verification",
+      "Software model checking"
+    ],
+    "url": "https://zenodo.org/api/records/6372544",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Other",
+        "type": "other"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artifact Package: the Metis File System Model Checking Framework",
+    "description": "Artifact package for the USENIX FAST 2024 paper: \"Metis: File System Model Checking via Versatile Input and State Exploration\".",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 10537199,
+    "doi": "10.5281/zenodo.10537199",
+    "authors": [
+      "Liu, Yifei",
+      "Adkar, Manish",
+      "Holzmann, Gerard",
+      "Kuenning, Geoff",
+      "Liu, Pei",
+      "Smolka, Scott",
+      "Su, Wei",
+      "Zadok, Erez"
+    ],
+    "keywords": [
+      "File Systems",
+      "Model Checking",
+      "Formal Verification",
+      "Differential Testing",
+      "Software Testing"
+    ],
+    "url": "https://zenodo.org/api/records/10537199",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Reproduction Package for FSE 2025 Submission `A Modular Program-Transformation Framework for Reducing Specifications to Reachability'",
+    "description": "This is the Artifact for the paper &ldquo;A Modular Program-Transformation Framework for Reducing Specifications to Reachability&rdquo; which has been submitted to FSE 2025.\nThe FSE article presents a program transformation framework with the goal of verifying different properties with of-the-shelf reachability analyzers. The transformations in a framework is based on instrumentation automata, inspired by the BLAST query language. In our initial study, we support three important concrete spec...",
+    "category": "termination",
+    "source": "zenodo",
+    "source_id": 13757310,
+    "doi": "10.5281/zenodo.13757310",
+    "authors": [
+      "Anonymous"
+    ],
+    "keywords": [
+      "Formal Verification",
+      "Model Checking",
+      "Software Verification",
+      "Program Analysis",
+      "Specification",
+      "Monitoring",
+      "Specification Reduction",
+      "Reachability"
+    ],
+    "url": "https://zenodo.org/api/records/13757310",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Systematic Evaluation and Usability Analysis of Formal Tools for Railway System Design - Technical Annexes",
+    "description": "This package includes additional data for&nbsp;the paper ``Systematic Evaluation and Usability Analysis of Formal Methods Tools for Railway Signalig System Design&#39;&#39;, by Alessio Ferrari, Franco Mazzanti, Davide Basile, and&nbsp;Maurice ter Beek, CNR-ISTI, Italy, accepted for publication in the IEEE Transactions on Software Engineering, DOI:&nbsp;10.1109/TSE.2021.3124677\n\nThe paper&nbsp;concerns&nbsp;the systematic evaluation and usability analysis of 14 formal tools for system design, ...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 5679726,
+    "doi": "10.5281/zenodo.5679726",
+    "authors": [
+      "Franco Mazzanti",
+      "Alessio Ferrari",
+      "Davide Basile",
+      "Maurice ter Beek"
+    ],
+    "keywords": [
+      "empirical software engineering",
+      "formal methods",
+      "formal tools",
+      "tool comparison",
+      "DESMET methodology"
+    ],
+    "url": "https://zenodo.org/api/records/5679726",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Dataset",
+        "type": "dataset"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Evaluation Data of the Combined Approach",
+    "description": "This dataset contains the programs on which the Combined Approach was evaluated.\n\nThe Java source code of each evaluated program is in the &quot;src&quot; folder.\nThe compiled jar file of each evaluated program is in the &quot;testdata&quot; folder.\n\nThe .joak file contains the annotated sources and sinks for each evaluated program.\nNote that you may not be able to load the .joak files directly into the Combined&nbsp;\nApproach program as the various paths in the .joak files need to be fixed f...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 3359387,
+    "doi": "10.5281/zenodo.3359387",
+    "authors": [
+      "Bernhard Beckert",
+      "Simon Bischof",
+      "Mihai Herda",
+      "Michael Kirsten",
+      "Holger Klein",
+      "Marko Kleine Büning",
+      "Joachim Müssig"
+    ],
+    "keywords": [
+      "Noninterference",
+      "Software Verification",
+      "Formal Methods",
+      "Program Slicing",
+      "Static Analysis",
+      "Deductive Verification"
+    ],
+    "url": "https://zenodo.org/api/records/3359387",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Dataset",
+        "type": "dataset"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Reproduction Package (VM Version) for ICSE 2022 Article `Decomposing Software Verification into Off-the-Shelf Components: An Application to CEGAR'",
+    "description": "Decomposing Software Verification into Off-the-Shelf Components: An Application to CEGAR\n\nAbstract: Tools for software verification are typically cohesive units of software with tightly coupled components. This makes it difficult to re-use components, and the potential for workload distribution is limited. Innovations in software verification might find their way into practice faster if provided in smaller, more specialized components.\n\nIn this paper, we propose to strictly decompose software...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 6062602,
+    "doi": "10.5281/zenodo.6062602",
+    "authors": [
+      "Beyer, Dirk",
+      "Haltermann, Jan",
+      "Lemberger, Thomas",
+      "Wehrheim, Heike"
+    ],
+    "keywords": [
+      "Software engineering",
+      "Software verification",
+      "Abstraction refinement",
+      "CEGAR",
+      "Decomposition",
+      "Cooperative verification"
+    ],
+    "url": "https://zenodo.org/api/records/6062602",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Replication Package for article \"Reusing Predicate Precision in Value Analysis\"",
+    "description": "This artifact provides the replication package for the article\n\nMarie-Christine Jakobs, Technische Universit&auml;t Darmstadt, Department of Computer Science, Germany\nReusing Predicate Precision in Value Analysis\nIn Proceedings of 17th International Conference on integrated Formal Methods (iFM), Springer, 2022.\n\nThe paper discusses how to exchange information between predicate and value analysis, two abstraction-based software verification approaches. More concretely, it suggests 13 different...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 5645043,
+    "doi": "10.5281/zenodo.5645043",
+    "authors": [
+      "Jakobs, Marie-Christine"
+    ],
+    "keywords": [
+      "Replication artifact",
+      "Software verification",
+      "Software model checking",
+      "Precision reuse"
+    ],
+    "url": "https://zenodo.org/api/records/5645043",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Verification and validation of embedded software in an automotive context: a systematic literature review",
+    "description": "In automotive context, the embedded software Verification and Validation (V&amp;V) is always a critical step for each project that involves testing solutions for new function, system optimization and compliance with legal requirements. However, automotive software V&amp;V is laborious and time-consuming. Activities such as planning workshops at test tracks and public roads and functionality and durability tests require significant effort and robust coordination. The rigorous management and st...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 10127579,
+    "doi": "10.32749/nucleodoconhecimento.com.br/computer-science/embedded-software",
+    "authors": [
+      "Arcanjo, Renato Rafael",
+      "Martins, Luiz Eduardo Galvão",
+      "Fernandes, Dirceu Lavoisier Graci"
+    ],
+    "keywords": [
+      "Verification and Validation",
+      "Automotive software"
+    ],
+    "url": "https://zenodo.org/api/records/10127579",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:16",
+      "resource_type": {
+        "title": "Journal article",
+        "type": "publication",
+        "subtype": "article"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Model Checking for Abstract State Machines",
+    "description": "In this paper, we discuss the use of a model checker in combination with the specification method of Abstract State Machines (ASMs). A schema is introduced for transforming ASM models into the language of a model checker. We prove that the transformation preserves the semantics of ASMs and provide a theoretical framework for a transformation tool. Experience with model-checking the ASM model of the Production Cell demonstrates that this approach offers effective support for verifying ASM spec...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 6995382,
+    "doi": "10.3217/jucs-003-05-0689",
+    "authors": [
+      "Winter, Kirsten"
+    ],
+    "keywords": [
+      "Formal Methods",
+      "Abstract State Machines",
+      "Model Checking",
+      "Tool Support",
+      "Requirement Specification",
+      "Verification"
+    ],
+    "url": "https://zenodo.org/api/records/6995382",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Journal article",
+        "type": "publication",
+        "subtype": "article"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Finding Software Vulnerabilities in Large C Projects via Bounded Model Checking",
+    "description": "A novel verification approach that combines input-code analysis and BMC techniques to detect software vulnerabilities and assess findings in a detailed and user-friendly report.&nbsp;This approach can systematically guide a bounded model checker to verify large open-source software systems.Computer-based systems have solved several domain problems, including industrial, military, education, and wearable. Nevertheless, such arrangements need high-quality software to guarantee security and safe...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 10077388,
+    "doi": "10.5281/zenodo.10077388",
+    "authors": [
+      "Janislley, Oliveira de Sousa",
+      "Lucas Carvalho Cordeiro",
+      "Bruno Carvalho de Farias",
+      "Thales Araujo da Silva",
+      "Eddie Batista de Lima Filho"
+    ],
+    "keywords": [
+      "Bounded model checking",
+      "Software verification",
+      "Security vulnerabilities",
+      "Open-source software",
+      "Large systems"
+    ],
+    "url": "https://zenodo.org/api/records/10077388",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Journal article",
+        "type": "publication",
+        "subtype": "article"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "A Model Checker for Operator Precedence Languages",
+    "description": "This paper presents a model checker, named POMC, for Operator Precedence Language (OPL) programs to prove properties expressed in Precedence Oriented Temporal Logic (POTL). To the best of the authors&rsquo; knowledge, POMC is the first implemented and openly available model checker for proving tree-structured properties of recursive procedural programs. They also report on the experimental evaluation they performed on POMC on a nontrivial benchmark.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 8223876,
+    "doi": "10.5281/zenodo.8223876",
+    "authors": [
+      "Chiari Michele",
+      "Mandrioli Dino",
+      "Pontiggia Francesco",
+      "Pradella Matteo"
+    ],
+    "keywords": [
+      "Formal software veriication",
+      "Linear Temporal Logic",
+      "Input-Driven Languages",
+      "Model checking"
+    ],
+    "url": "https://zenodo.org/api/records/8223876",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Journal article",
+        "type": "publication",
+        "subtype": "article"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Model-Checking Structured Context-Free Languages (Artifact)",
+    "description": "This is the artifact related to the article\n\nM. Chiari, D. Mandrioli, M. Pradella: &quot;Model-Checking Structured Context-Free Languages&quot;\n\naccepted at CAV 2021.\n\nAbstract:\n\n\nThe problem of model checking procedural programs has fostered much research towards the definition of&nbsp; temporal logics for reasoning on context-free structures. The most notable of such results are temporal logics on Nested Words, such as CaRet and NWTL.\nRecently, the logic OPTL was introduced, based on the cl...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 4723741,
+    "doi": "10.5281/zenodo.4723741",
+    "authors": [
+      "Chiari, Michele",
+      "Mandrioli, Dino",
+      "Pradella, Matteo"
+    ],
+    "keywords": [
+      "model checking",
+      "temporal logic",
+      "software verification"
+    ],
+    "url": "https://zenodo.org/api/records/4723741",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artifact for the CAV'23 tool paper \"Kratos2: an SMT-Based Model Checker for Imperative Programs\"",
+    "description": "This is an artifact for the CAV&#39;23 tool paper &quot;Kratos2: an SMT-Based Model Checker for Imperative Programs&quot;.\n\nFor detailed instructions, see the&nbsp;README.md&nbsp;file within&nbsp;the archive.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 7890411,
+    "doi": "10.5281/zenodo.7890411",
+    "authors": [
+      "Alberto Griggio",
+      "Martin Jonáš"
+    ],
+    "keywords": [
+      "software verification",
+      "satisfiability modulo theories",
+      "C programming language",
+      "model checking"
+    ],
+    "url": "https://zenodo.org/api/records/7890411",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Other",
+        "type": "other"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artifact for CBMC-SSM: Bounded Model Checking of C Programs with Symbolic Shadow Memory",
+    "description": "Dynamic program analysis tools such as Eraser, Memcheck, or ThreadSanitizer abstract the contents of individual memory locations and store the abstraction results in a separate data structure called shadow memory. They then use this meta-information to efficiently implement the actual analyses. In this paper, we describe the implementation of an efficient symbolic shadow memory extension for the CBMC bounded model checker that can be accessed through an API, and sketch its use in the design o...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 7026604,
+    "doi": "10.5281/zenodo.7026604",
+    "authors": [
+      "Fischer, Bernd",
+      "La Torre, Salvatore",
+      "Parlato, Gennaro",
+      "Schrammel, Peter"
+    ],
+    "keywords": [
+      "software verification, concurrency, model checking, bug finding"
+    ],
+    "url": "https://zenodo.org/api/records/7026604",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Example model of a nuclear I&C logic for NuSMV / nuXmv",
+    "description": "A simplified, masked example of a nuclear I&amp;C safety system application logic, modeled for both the NuSVM model checker (finite-domain model) and the nuXmv model checker (infinite-domain model). The models are examples of test cases the author used for assessing&nbsp; the real number math processing capability of nuXmv, by comparing to NuSMV&#39;s performance with abstracted math.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 4316560,
+    "doi": "10.5281/zenodo.4316560",
+    "authors": [
+      "Pakonen, Antti"
+    ],
+    "keywords": [
+      "model checking",
+      "formal verification",
+      "nuclear I&C"
+    ],
+    "url": "https://zenodo.org/api/records/4316560",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Model Checking the Information-Flow of Explainability and Privacy Requirements",
+    "description": "This artifact contains experiments on using the model checker AutoHyper for verifying information-flow requirements that encode explainability and privacy.\nIt contains Docker images with a full setup of the model checker, benchmarks and evaluation scripts. Further, the benchmarks and evaluation scripts are also supplied outside of the Docker image for documentation purposes.&nbsp;\nPlease consult the README for details on how to run the experiments.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 16943505,
+    "doi": "10.5281/zenodo.16943505",
+    "authors": [
+      "Siber, Julian"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/16943505",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "DGBTechnologies/JANI-GUI: Paper Release",
+    "description": "JANI GUI for Storm Model Checker",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 4476354,
+    "doi": "10.5281/zenodo.4476354",
+    "authors": [
+      "AhmadZafar",
+      "DGB Technologies"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/4476354",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artifact for FM 2023 Paper: SMPT: A Testbed for Reachability Methods in Generalized Petri Nets",
+    "description": "This artifact is self-content and permits to use the SMPT model checker. We also provide scripts to analyze the results of the 2022 edition of Model Checking Contest for the reachability category.\n\nSMPT (for Satisfiability Modulo Petri Net) is a model checker for reachability problems in Petri nets. It started as a portfolio of methods to experiment with symbolic model checking, and was designed to be easily extended. Some distinctive features are its ability to benefit from structural reduct...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 7341426,
+    "doi": "10.5281/zenodo.7341426",
+    "authors": [
+      "Amat, Nicolas",
+      "Dal Zilio, Silvano"
+    ],
+    "keywords": [
+      "Model checking",
+      "Reachability problem",
+      "Petri nets"
+    ],
+    "url": "https://zenodo.org/api/records/7341426",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Lunrtick/palchecker: Submission with Bachelor's Project",
+    "description": "5 implementations of a Public Announcement Logic Model Checker",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 5078121,
+    "doi": "10.5281/zenodo.5078121",
+    "authors": [
+      "Gabriel Soicher"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/5078121",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "avanhatt/icse22ae-kani: v0.2 Artifact Update",
+    "description": "Kani Rust Model Checker artifact for ICSE 2022 Artifact Evaluation",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 6085618,
+    "doi": "10.5281/zenodo.6085618",
+    "authors": [
+      "Alexa VanHattum",
+      "Adrian Sampson"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/6085618",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "irifrance/reach: Tenu",
+    "description": "Reach is a Boolean/binary symbolic safety model checker and general reachability tool.",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 2554423,
+    "doi": "10.5281/zenodo.2554423",
+    "authors": [
+      "Scott  Cotton"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/2554423",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "GPUexplore-prob",
+    "description": "GPUexplore Prob model checker. See the README and\nartifact/tools/benchmark/benchmark.sh --help\nfor more information.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 14771103,
+    "doi": "10.5281/zenodo.14771103",
+    "authors": [
+      "Heemstra, Jan",
+      "Wijs, Anton"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/14771103",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Lambda artefact",
+    "description": "A virtual machine with the model checker lambda. The password is 'password'.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 11124582,
+    "doi": "10.5281/zenodo.11124582",
+    "authors": [
+      "Redondi, Gianluca"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/11124582",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "[ ATVA24 Artifact ] HyperQB: A QBF-Based Bounded Model Checker for Hyperproperties",
+    "description": "Artifact for ATVA 2024, paper 80: HyperQB: A QBF-Based Bounded Model Checker for Hyperproperties",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 11282197,
+    "doi": "10.5281/zenodo.11282197",
+    "authors": [
+      "Hsu, Tzu-Han"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/11282197",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:19",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "msuperdock/prover: 2022-09-16",
+    "description": "A simple theorem prover built with Agda.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 7087686,
+    "doi": "10.5281/zenodo.7087686",
+    "authors": [
+      "Matt Superdock"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/7087686",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Integrating Arithmetic Reasoning into the Automated Theorem Prover Leo-III",
+    "description": "Leo-III is an automated theorem prover for higher-order logic, designed to handle complex mathematical and logical reasoning. It supports higher-order logic (HOL) and is based on paramodulation. Leo-III is built to cooperate with other theorem provers but can also be used as a stand-alone prover.&nbsp;\nThis version of Leo-III is based on version v1.7.0 and is the outcome of a bachelor's thesis, which aimed to extend the prover by integrating theory reasoning for arithmetic.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 13765218,
+    "doi": "10.5281/zenodo.13765218",
+    "authors": [
+      "Wittkat, Jule"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/13765218",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "A Formalisation of Approximation Fixpoint Theory",
+    "description": "A formalisation of approximation fixpoint theory in the theorem prover Coq.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 4893264,
+    "doi": "10.5281/zenodo.4893264",
+    "authors": [
+      "Bogaerts, Bart",
+      "Cruz-Filipe, Luís"
+    ],
+    "keywords": [
+      "abstract fixpoint theory",
+      "theorem proving"
+    ],
+    "url": "https://zenodo.org/api/records/4893264",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "iProver v3.9 (SMT-COMP 2024)",
+    "description": "iProver is a theorem prover for quantified first-order logic with theories.\niProver accepts problems in SMT2 and TPTP formats.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 12684464,
+    "doi": "10.5281/zenodo.12684464",
+    "authors": [
+      "Korovin, Konstantin"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/12684464",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "The Rocq Prover",
+    "description": "Summary of changes\nWe highlight some of the most impactful changes here:\n\n\nfixed incorrect guard checking leading to inconsistencies (multiple PRs)\n\n\nsort polymorphic universe instances&nbsp;should now be written&nbsp;as&nbsp;@{s&nbsp;;&nbsp;u}&nbsp;instead of&nbsp;@{s&nbsp;|&nbsp;u}\n\n\nfixed&nbsp;handling of notation variables for ltac2 in notations (i.e.&nbsp;Notation&nbsp;\"'foo'&nbsp;x\"&nbsp;:=&nbsp;ltac2:(...))\n\n\nSupport&nbsp;for&nbsp;refine&nbsp;attribute in&nbsp;Definition\n\n\nRocq can be ...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 17473943,
+    "doi": "10.5281/zenodo.17473943",
+    "authors": [
+      "The Rocq Development Team"
+    ],
+    "keywords": [
+      "proof assistant",
+      "mathematical software",
+      "formal proofs"
+    ],
+    "url": "https://zenodo.org/api/records/17473943",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "The Complex(ity) Landscape of Checking Infinite Descent (Software Artifact)",
+    "description": "Accompanying artifact for POPL2024 paper submission, containing the following:\n\n\n\tExtension of the Cyclist automated theorem prover (cyclist-prover.org) by new algorithms for checking the Infinite Descent property.\n\tExperimental dataset for algorithms checking Infinite Descent.\n\n\n&nbsp;",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 10073582,
+    "doi": "10.5281/zenodo.10073582",
+    "authors": [
+      "Cohen, Liron",
+      "Jabarin, Adham",
+      "Popescu, Andrei",
+      "Rowe, Reuben Nathaniel Simon"
+    ],
+    "keywords": [
+      "Automated Theorem Prover, Cyclic Proof, Infinite Descent"
+    ],
+    "url": "https://zenodo.org/api/records/10073582",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "gym-saturation: Gymnasium environments for saturation provers",
+    "description": "gym-saturation is a collection of Gymnasium environments for reinforcement learning (RL) agents striving to prove theorems. Currently, only theorems written in TPTP library formal language are supported.\n\nThere are two environments in gym-saturation: VampireEnv and IProverEnv. VampireEnv is a wrapper around a recent Vampire prover, and IProverEnv relies on an experimental version of iProver.\n\nIn contrast to monolithic architecture of a typical Automated Theorem Prover (ATP), gym-saturation gi...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 7767095,
+    "doi": "10.5281/zenodo.7767095",
+    "authors": [
+      "Shminke, Boris"
+    ],
+    "keywords": [
+      "automated theorem provers",
+      "reinforcement learning",
+      "gymnasium"
+    ],
+    "url": "https://zenodo.org/api/records/7767095",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Leo-III 1.7.18",
+    "description": "Leo-III is an automated theorem prover for (polymorphic) higher-order logic which supports all common TPTP dialects, including THF, TFF and FOF as well as their rank-1 polymorphic derivatives. It is based on a paramodulation calculus with ordering constraints and, in tradition of its predecessor LEO-II, heavily relies on cooperation with external (mostly first-order) theorem provers for increased performance. Nevertheless, Leo-III can also be used as a stand-alone prover without employing any...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 15149454,
+    "doi": "10.5281/zenodo.15149454",
+    "authors": [
+      "Alexander Steen"
+    ],
+    "keywords": [
+      "automated reasoning",
+      "artificial intelligence",
+      "automated theorem proving",
+      "computational logic",
+      "higher-order logic",
+      "logic"
+    ],
+    "url": "https://zenodo.org/api/records/15149454",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "A Case for First-Class Environments (Artifact)",
+    "description": "This artifact contains the mechanical formalization of the calculi associated with the paper: A Case for First-Class Environments. All of the metatheory has been formalized in Coq theorem prover. The artifact can be either compiled in the pre-built docker image with all the dependencies installed or built from scratch.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 13370814,
+    "doi": "10.5281/zenodo.13370814",
+    "authors": [
+      "Tan, Jinhao",
+      "Oliveira, Bruno C. d. S."
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/13370814",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "A Formalisation of Approximation Fixpoint Theory in Coq",
+    "description": "Approximation Fixpoint Theory (AFT) is an abstract framework based on lattice theory that unifies semantics of different non-monotonic logic. AFT has revealed itself to be applicable in a variety of new domains within knowledge representation. In this work, formalise the key constructions and results of AFT in the Coq theorem prover, together with a case study illustrating its application to propositional logic programming.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 10709614,
+    "doi": "10.5281/zenodo.10709614",
+    "authors": [
+      "Bogaerts, Bart",
+      "Cruz-Filipe, Luis"
+    ],
+    "keywords": [
+      "approximation fixpoint theory",
+      "coq formalisation",
+      "ordinals in coq"
+    ],
+    "url": "https://zenodo.org/api/records/10709614",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Cyclone: A Heterogeneous Tool for Checking Infinite Descent (Software Artifact)",
+    "description": "Accompanying artifact for TACAS2025 tool paper, containing the following:\n\nExtension of the Cyclist automated theorem prover (cyclist-prover.org) by new algorithms for checking the Infinite Descent property, and integration of a tool, Cyclone, as a backend Infinite Descent check for Cyclist.\nExperimental dataset for algorithms checking Infinite Descent.\nDocker images with a pre-built version of the extension of Cyclist, for artifact evaluation.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 14743891,
+    "doi": "10.5281/zenodo.14743891",
+    "authors": [
+      "Rowe, Reuben",
+      "Cohen, Liron",
+      "Shaked, Matan"
+    ],
+    "keywords": [
+      "Infinite Descent",
+      "Cyclic proof",
+      "Cyclist",
+      "Program verification",
+      "Sloped graphs"
+    ],
+    "url": "https://zenodo.org/api/records/14743891",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Formal Semantics and Formally Verified Validation for Temporal Planning",
+    "description": "We present a simple and concise semantics for temporal planning. Our semantics are developed and formalised in the logic of the interactive theorem prover Isabelle/HOL. We derive from those semantics a validation algorithm for temporal planning and show, using a formal proof in Isabelle/HOL, that this validation algorithm implements our semantics. We experimentally evaluate our verified validation algorithm and show that it is practical.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 5784579,
+    "doi": "10.5281/zenodo.5784579",
+    "authors": [
+      "Abdulaziz, Mohammad"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/5784579",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Algebraic Laws for Feature Models",
+    "description": "Software Product Lines (SPL) may be adopted by either bootstrapping existing software products into a SPL, or extending an existing SPL to encompass an additional software product. Program refactorings are usually applied for carrying out those tasks. The notion of SPL refactoring is an extension of the traditional definition of refactoring; it involves not only program refactorings, but also Feature Model (FM) refactorings, in order to improve configurability. However, FM refactorings are ha...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 7000583,
+    "doi": "10.3217/jucs-014-21-3573",
+    "authors": [
+      "Gheyi, Rohit",
+      "Massoni, Tiago",
+      "Borba, Paulo"
+    ],
+    "keywords": [
+      "feature models",
+      "refactoring",
+      "algebraic laws",
+      "software product lines"
+    ],
+    "url": "https://zenodo.org/api/records/7000583",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Journal article",
+        "type": "publication",
+        "subtype": "article"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Leo-III-LP",
+    "description": "Leo-III is an established, versatile automated theorem prover for (polymorphic) higher-order logic. Leo-III-LP represents a prototype of a version of this prover that offers the capability to fully automatically output proofs verifiable within the Dedukti framework. This upload accompanies the thesis \"Computer-Assisted Proof Verification for Higher-Order Automated Reasoning within the Dedukti Framework,\" authored by Melanie Taprogge and supervised by Prof. Dr. Alexander Steen and Dr. Hab. Fr&...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 13889978,
+    "doi": "10.5281/zenodo.13889978",
+    "authors": [
+      "Taprogge, Melanie"
+    ],
+    "keywords": [
+      "ATP",
+      "Verification",
+      "HOL"
+    ],
+    "url": "https://zenodo.org/api/records/13889978",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Automated Reasoning in Normative Detachment Structures with Ideal Conditions",
+    "description": "This archive contains the two programs discussed in the paper as well as the latest distribution of MLeanCoP",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 1450890,
+    "doi": "10.5281/zenodo.1450890",
+    "authors": [
+      "Tomer Libal",
+      "Matteo Pascucci"
+    ],
+    "keywords": [
+      "Deontic logic, theorem prover, modal logic, legal texts"
+    ],
+    "url": "https://zenodo.org/api/records/1450890",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Tamarin Prover",
+    "description": "The Tamarin prover is a security protocol verification tool that supports both falsification (attack finding) and unbounded verification (proving) in the symbolic model. Security protocols are specified as multiset rewriting systems and analyzed with respect to temporal first-order properties.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 14013077,
+    "doi": "10.5281/zenodo.14013077",
+    "authors": [
+      "Basin, David",
+      "Cremers, Cas",
+      "Dreier, Jannik",
+      "Meier, Simon",
+      "Sasse, Ralf",
+      "Schmidt, Benedikt"
+    ],
+    "keywords": [
+      "Tamarin Prover",
+      "Verification",
+      "Cryptography",
+      "Symbolic Model",
+      "Automated Analysis",
+      "Security Protocols"
+    ],
+    "url": "https://zenodo.org/api/records/14013077",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Dis/Equality Graphs",
+    "description": "E-graphs are a data structure to compactly represent a program space and reason about equality of program terms. E-graphs have been successfully applied to a number of domains, including program optimization and automated theorem proving. In many applications, however, it necessary to reason about disequality of terms, not only about equality. While disequality reasoning can be encoded, direct support for disequalities increases performance and simplifies the metatheory.\nIn this artifact, w...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 13938878,
+    "doi": "10.5281/zenodo.13938878",
+    "authors": [
+      "Zakhour, George",
+      "Weisenburger, Pascal",
+      "Cesario, Jahrim Gabriele",
+      "Salvaneschi, Guido"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/13938878",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Implementation of the Approach for Automatic Test Generation for Information-Flow Properties",
+    "description": "This data set contains the implementation of the&nbsp;automatic test generation approach for information flow properties based on the KeY theorem prover.\n\nThe approach is described in http://dx.doi.org/10.1145/3297280.3297500\n\nSoftware\n---------\n\nThe folder &quot;key&quot; contains a modified version of the KeY theorem prover (https://www.key-project.org/) which can generate tests for a specified noninterference property.\nUnzip and run&nbsp;\n\njava -jar KeY.jar\n\nto start KeY.\nCheck out http://...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 3334532,
+    "doi": "10.5281/zenodo.3334532",
+    "authors": [
+      "Mihai Herda",
+      "Shmuel Tyszberowicz",
+      "Joachim Müssig",
+      "Bernhard Beckert"
+    ],
+    "keywords": [
+      "Noninterference",
+      "Testing",
+      "Formal Methods"
+    ],
+    "url": "https://zenodo.org/api/records/3334532",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "GenSys-LTL: Infinite State Reactive Synthesis using Logical LTL Games",
+    "description": "GenSys-LTL is an&nbsp;infinite-state reactive synthesis solver using LTL specifications. GenSys-LTL uses the Z3 theorem prover by Microsoft Research to solve and project SMT formulae. GenSys-LTL is scalable and is validated on standard benchmarks with compelling results.&nbsp;\nThis artifact is based on the recent ASE 2023 work: Symbolic Fixpoint Algorithms for Logical LTL Games.\nThe full version on arXiv with updated results from this artifact is found in: Towards Efficient Controller Synthes...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 10479551,
+    "doi": "10.5281/zenodo.10479551",
+    "authors": [
+      "Samuel, Stanly"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/10479551",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "A Coq proof of the correctness of X25519 in TweetNaCl",
+    "description": "Source code for the paper: A Coq proof of the correctness of X25519 in TweetNaCl.\n\nWe formally prove that the C implementation of the X25519 key-exchange protocol in the TweetNaCl library is correct. We prove both that it correctly implements the protocol from Bernstein&rsquo;s 2006 paper, as standardized in RFC 7748, as well as the absence of undefined behavior like arithmetic overflows and array out of bounds errors. We also formally prove, based on the work of Bartzia and Strub, that X2551...",
+    "category": "complexity_bounds",
+    "source": "zenodo",
+    "source_id": 4439686,
+    "doi": "10.5281/zenodo.4439686",
+    "authors": [
+      "Benoit Viguier"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/4439686",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artefact for the scientific article \"The Burden of Proof: Automated Tooling for Rapid Iteration on Large Mechanised Proofs\"",
+    "description": "This file provides instructions for reproducing results from the paper\nThe Burden of Proof: Automated Tooling for Rapid Iteration on Large Mechanised Proofs.\nThe paper describes 3 contributions:\n1. a report on the experience of proving the large proof of the CXL coherence property\n(available at this Github repository).\n2. a discussion on the super_sketch&nbsp;tool and its Isabelle/ML implementation\n(published in this Zulip thread).\n3. our super_fix tool that fixes errors in a .thy file, such...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 14275602,
+    "doi": "10.5281/zenodo.14275602",
+    "authors": [
+      "Tan, Chengsong",
+      "Donaldson, Alastair",
+      "Huerta y Munive, Jonathan Julian",
+      "Wickerson, John"
+    ],
+    "keywords": [
+      "theorem proving",
+      "proof assistants",
+      "proof automation"
+    ],
+    "url": "https://zenodo.org/api/records/14275602",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Machine Independent Language formalization and tools",
+    "description": "The Machine Independent Language (MIL) captures microarchitectural features such as out-of-order execution. MIL can be used as a form of abstract microcode language, e.g., as a target language for translating Instruction Set Architecture (ISA) instructions, and for reasoning about microarchitectural features that may cause unwanted information flows, e.g., side channels leaking secret information.\n\n\nWe formalize MIL in the HOL4 theorem prover. The formalization includes the in-order and out-o...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 6997534,
+    "doi": "10.5281/zenodo.6997534",
+    "authors": [
+      "Palmskog, Karl",
+      "Yao, Xiaomo",
+      "Dong, Ning",
+      "Guanciale, Roberto",
+      "Dam, Mads"
+    ],
+    "keywords": [
+      "hol4",
+      "cakeml",
+      "information flow",
+      "microarchitectures",
+      "out-of-order execution"
+    ],
+    "url": "https://zenodo.org/api/records/6997534",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Implementation of the Combined Approach",
+    "description": "This data set contains the implementation of the Combined Approach -- a tool which combines the theorem prover KeY with the static analysis tool JOANA.\n\nIn the folder &quot;build&quot; there are two jar files.\n\n- CombinedApproach.jar is the main application that combines KeY and Joana. It works by loading a .joak file which contains the paths to the source code, compiled jar, to KeY and some others which are not always needed. The .joak file also contains the annotation of the high sources an...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 3359433,
+    "doi": "10.5281/zenodo.3359433",
+    "authors": [
+      "Bernhard Beckert",
+      "Simon Bischof",
+      "Mihai Herda",
+      "Michael Kirsten",
+      "Marko Kleine Büning",
+      "Holger Klein",
+      "Joachim Müssig"
+    ],
+    "keywords": [
+      "Noninterference",
+      "Formal Methods",
+      "Static Analysis",
+      "Deductive Theorem Proving",
+      "Information Flow"
+    ],
+    "url": "https://zenodo.org/api/records/3359433",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:23",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artifact for the CAV 2018 Paper: Symbolic Liveness Analysis of Real-World Software",
+    "description": "Abstract\n\nLiveness violation bugs are notoriously hard to detect, especially due to the difficulty inherent in applying formal methods to real-world programs. We present a generic and practically useful liveness property which defines a program as being live as long as it will eventually either consume more input or terminate. We show that this property naturally maps to many different kinds of real-world programs.\n\nTo demonstrate the usefulness of our liveness property, we also present an al...",
+    "category": "termination",
+    "source": "zenodo",
+    "source_id": 5771193,
+    "doi": "10.5281/zenodo.5771193",
+    "authors": [
+      "Schemmel, Daniel",
+      "Büning, Julian",
+      "Soria Dustmann, Oscar",
+      "Noll, Thomas",
+      "Wehrle, Klaus"
+    ],
+    "keywords": [
+      "Symbolic Execution",
+      "KLEE",
+      "liveness analysis",
+      "software testing",
+      "non-termination bugs"
+    ],
+    "url": "https://zenodo.org/api/records/5771193",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:31",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artifact for article \"Reflections on Termination of Linear Loops\"",
+    "description": "This is the artifact for the CAV 2021 paper, &ldquo;Reflections on Termination of Linear Loops&rdquo;.&nbsp;The artifact provided is an OVA virtual machine that can be opened via&nbsp;VirtualBox. The operating system is Ubuntu 18.04 LTS. It contains an installation of the tool as described in the paper, and the benchmark suites we have used to evaluate the tool. It also contains installations of benchexec and ComPACT, Ultimate Automizer, 2LS, CPAchecker for easy reproduction of results in the...",
+    "category": "termination",
+    "source": "zenodo",
+    "source_id": 4742843,
+    "doi": "10.5281/zenodo.4742843",
+    "authors": [
+      "Shaowei Zhu",
+      "Zachary Kincaid"
+    ],
+    "keywords": [
+      "termination",
+      "linear abstraction",
+      "linear dynamical system",
+      "static analysis",
+      "reflective subcategory",
+      "monotone analysis"
+    ],
+    "url": "https://zenodo.org/api/records/4742843",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:31",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Analysis and Integration of Generic Application Framework",
+    "description": "This Deliverable is based on the outcomes of task T4.2.2 Generic middleware architecture design and implementation and T4.2.3 Component specification and implementation for application scenarios.\n\nWithin WhoLoDancE, several tools have been developed to fulfil the project requirements. Since WhoLoDancE considers several application scenarios, the use of different programming languages, development environments and technologies is mandatory. Nevertheless, in the development process an integrati...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 1184381,
+    "doi": "10.5281/zenodo.1184381",
+    "authors": [
+      "Buccoli, Michele",
+      "Zanoni, Massimiliano",
+      "Antonacci, Fabio",
+      "Sarti, Augusto"
+    ],
+    "keywords": [
+      "software platform",
+      "software libraries",
+      "application framework",
+      "software integration"
+    ],
+    "url": "https://zenodo.org/api/records/1184381",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:31",
+      "resource_type": {
+        "title": "Project deliverable",
+        "type": "publication",
+        "subtype": "deliverable"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Termination Resilience Static Analysis",
+    "description": "FuncTion is a research prototype static analyzer designed for proving conditional termination resilience (and&nbsp; termination and conditional CTL properties of C programs.\nThe tool automatically infers piecewise-defined ranking functions and sufficient preconditions by means of abstract interpretation.\n&nbsp;",
+    "category": "termination",
+    "source": "zenodo",
+    "source_id": 17176433,
+    "doi": "10.5281/zenodo.17176433",
+    "authors": [
+      "Urban, Caterina"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/17176433",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:31",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Proton SV-COMP 2024 Competition Contribution",
+    "description": "PROTON is a tool for termination and non-termination analysis of software.",
+    "category": "termination",
+    "source": "zenodo",
+    "source_id": 10185252,
+    "doi": "10.5281/zenodo.10185252",
+    "authors": [
+      "Karmarkar, Hrishikesh",
+      "Madhukar, Kumar",
+      "Metta, Ravindra"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/10185252",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:31",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Decision Tree Learning in CEGIS-Based Termination Analysis",
+    "description": "This is a docker image&nbsp;containing&nbsp;a termination analyzer, MuVal [1].\n\nYou can load and run the image by the following commands.\n\nsudo docker load -i cav21ae.tar\nsudo docker run -it coar:cav21ae_dt /bin/bash --login\n\nSee /home/muval/coar/cav21ae_dt/README.md or our github repository&nbsp;for details.\n\n[1]&nbsp;Satoshi Kura, Hiroshi Unno, and Ichiro Hasuo. Decision Tree Learning in CEGIS-Based Termination Analysis. CAV 2021.",
+    "category": "termination",
+    "source": "zenodo",
+    "source_id": 4747775,
+    "doi": "10.5281/zenodo.4747775",
+    "authors": [
+      "Satoshi, Kura",
+      "Hiroshi, Unno",
+      "Ichiro, Hasuo"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/4747775",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:31",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "SAFTerm: A Structural-aware Framework for Termination Analysis via Neural Networks",
+    "description": "The prototype implementation for paper &ldquo;SAFTerm: A Structural-aware Framework for Termination Analysis via Neural Networks&rdquo;.",
+    "category": "neural_network_verification",
+    "source": "zenodo",
+    "source_id": 17549198,
+    "doi": "10.5281/zenodo.17549198",
+    "authors": [
+      "Anonymous"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/17549198",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:31",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "FSE2022benchmarks/termination: FSE2022benchmark-termination",
+    "description": "Benchmarks and result-files for paper \"Large-Scale Analysis of Non-Termination Bugs in Real-World OSS Projects\" (FSE-2022)",
+    "category": "termination",
+    "source": "zenodo",
+    "source_id": 6548039,
+    "doi": "10.5281/zenodo.6548039",
+    "authors": [
+      "FSE2022benchmarks"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/6548039",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:31",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "coq-tactician/coq-tactician: Tactician 1.0~beta2~neural+8.11 for Coq 8.11 with modifications for neural networks",
+    "description": "A Seamless, Interactive Tactic Learner and Prover for Coq",
+    "category": "neural_network_verification",
+    "source": "zenodo",
+    "source_id": 10426627,
+    "doi": "10.5281/zenodo.10426627",
+    "authors": [
+      "Lasse Blaauwbroek",
+      "Zhang-Liao",
+      "Vasily Pestun"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/10426627",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "coq-tactician/coq-tactician: Tactician 1.0~beta2+8.15 for Coq 8.15",
+    "description": "A Seamless, Interactive Tactic Learner and Prover for Coq",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 10015721,
+    "doi": "10.5281/zenodo.10015721",
+    "authors": [
+      "Lasse Blaauwbroek",
+      "Zhang-Liao",
+      "Vasily Pestun"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/10015721",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "JellePiepenbrock/iprover-gnn-server: v0.1.0-archive",
+    "description": "A GNN clause selection predictor for the instantion-calculus prover iProver",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 14616490,
+    "doi": "10.5281/zenodo.14616490",
+    "authors": [
+      "JellePiepenbrock"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/14616490",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "coq-tactician/coq-tactician: Tactician 1.0~beta2+8.11 for Coq 8.11",
+    "description": "A Seamless, Interactive Tactic Learner and Prover for Coq",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 10015713,
+    "doi": "10.5281/zenodo.10015713",
+    "authors": [
+      "Lasse Blaauwbroek",
+      "Zhang-Liao",
+      "Vasily Pestun"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/10015713",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "coq-tactician/coq-tactician: Tactician 1.0~beta2+8.12 for Coq 8.12",
+    "description": "A Seamless, Interactive Tactic Learner and Prover for Coq",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 10015711,
+    "doi": "10.5281/zenodo.10015711",
+    "authors": [
+      "Lasse Blaauwbroek",
+      "Zhang-Liao",
+      "Vasily Pestun"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/10015711",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "BiCoq: Modeling bigraphs with Rocq Prover",
+    "description": "An implementation of Robin Milner's bigraphs using the Rocq Prover.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 17804693,
+    "doi": "10.5281/zenodo.17804693",
+    "authors": [
+      "Marcon, Cécile",
+      "Thirioux, Xavier"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/17804693",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "mtarunpr/coq-prover: Initial release",
+    "description": "Prove theorems in Coq by extracting lemmas at failure points. Also contains tools for parsing Coq files and fine-tuning LLMs.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 13756499,
+    "doi": "10.5281/zenodo.13756499",
+    "authors": [
+      "Tarun Prasad",
+      "Mark Pekala",
+      "Justin Ye"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/13756499",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "naveensundarg/prover: november-22-2019",
+    "description": "No description provided.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 3551345,
+    "doi": "10.5281/zenodo.3551345",
+    "authors": [
+      "Naveen Sundar G.",
+      "lbru",
+      "Matthew Peveler"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/3551345",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "FSE2022benchmarks/-FSE-2022-Termination: FSE2022-Termination",
+    "description": "Benchmarks and result-files for paper \"Large-Scale Analysis of Non-Termination Bugs in Real-World OSS Projects\" (FSE-2022)",
+    "category": "termination",
+    "source": "zenodo",
+    "source_id": 6548310,
+    "doi": "10.5281/zenodo.6548310",
+    "authors": [
+      "FSE2022benchmarks"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/6548310",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "A Formal Analysis of Apple's iMessage PQ3 Protocol",
+    "description": "This artifact contains the formal models and proofs of Apple's iMessage PQ3 protocol for the Tamarin prover. It also contains a pseudocode specification of the protocol.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 15042937,
+    "doi": "10.5281/zenodo.15042937",
+    "authors": [
+      "Linker, Felix",
+      "Sasse, Ralf",
+      "Basin, David"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/15042937",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Hobbit: Space-Efficient zkSNARK with Optimal Prover Time",
+    "description": "Implementation of Hobbit. Note that in order to compile it you need to download the C++ implementation of Blake3 hash function.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 15620984,
+    "doi": "10.5281/zenodo.15620984",
+    "authors": [
+      "Pappas, Christodoulos",
+      "Papadopoulos, Dimitrios"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/15620984",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "isabelle-prover/isabelle-go-codegen: v0.3.1",
+    "description": "Identical code to v0.3.1, but contains a fix to include all files in the Zenodo export.\nRelease notes for v0.3 follow.\nUpdated for Isabelle2024.\n\nThe code in this repository is now the same state as the AFP entry.\nThe Dockerfile has been updated to use the Isabelle-bundled Go installer (see also the README).",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 11608252,
+    "doi": "10.5281/zenodo.11608252",
+    "authors": [
+      "Lars Hupel",
+      "terru"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/11608252",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Verified Translation of Guarded Programs",
+    "description": "Systems based on the Curry-Howard correspondence are rendered unsound by diverging terms; as such, self-referential definitions are typically restricted to ensure termination. For coinductive types, this involves checking productivity, i.e., that any finite prefix of the data can be computed in finite time. Syntactic conditions (such as Rocq's productivity checker) can be used, but are known to reject valid productive definitions.A more flexible approach due to Nakano [2000] is to enforce pro...",
+    "category": "termination",
+    "source": "zenodo",
+    "source_id": 17120315,
+    "doi": "10.5281/zenodo.17120315",
+    "authors": [
+      "Läwen, David"
+    ],
+    "keywords": [
+      "Rocq",
+      "Iris",
+      "guarded type theory",
+      "step-indexing",
+      "logical relations",
+      "program translation"
+    ],
+    "url": "https://zenodo.org/api/records/17120315",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Looping for Good: Cyclic Proofs for Security Protocols",
+    "description": "This artifact provides an implementation and examples of a cyclic proof system for the Tamarin Prover, a protocol verifier in the symbolic model. The artifact's top-level README provides installation and general usage instructions.",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 16992323,
+    "doi": "10.5281/zenodo.16992323",
+    "authors": [
+      "Linker, Felix",
+      "Sprenger, Christoph",
+      "Cremers, Cas",
+      "Basin, David"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/16992323",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:16:37",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "DeepMIP",
+    "description": "Code for DeepMIP and MiniMIP algorithms.",
+    "category": "neural_network_verification",
+    "source": "zenodo",
+    "source_id": 6982973,
+    "doi": "10.5281/zenodo.6982973",
+    "authors": [
+      "Tom Zelazny",
+      "Haoze Wu",
+      "Clark Barrett",
+      "Guy Katz"
+    ],
+    "keywords": [
+      "Neural network verification"
+    ],
+    "url": "https://zenodo.org/api/records/6982973",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:04",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Dataset: Feedforward Neural Network Verification in Isabelle/HOL",
+    "description": "This data set complements the publication\n\n\n\t&nbsp; A.D. Brucker and A. Stell. Verifying feedforward neural networks for classification in&nbsp; Isabelle/HOL. In M. Chechik, J.-P. Katoen, and M. Leucker, editors, Formal Methods (FM 2023). L&uuml;beck, Germany, 2023. ISBN: 978-3-642-38915-3.\n\n\n&nbsp;",
+    "category": "neural_network_verification",
+    "source": "zenodo",
+    "source_id": 7427122,
+    "doi": "10.5281/zenodo.7427122",
+    "authors": [
+      "Brucker, Achim D.",
+      "Stell, Amy"
+    ],
+    "keywords": [
+      "Neural network, Deep Learning, Classification Network, Feedforward Network, Verification, Isabelle/HOL"
+    ],
+    "url": "https://zenodo.org/api/records/7427122",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:04",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Building Verified Neural Networks for Computer Systems with Ouroboros",
+    "description": "Neural networks are powerful tools. Applying them in computer systems&mdash;operating systems, databases, and networked systems&mdash;attracts much attention. However, neural networks are complicated black boxes that may produce unexpected results. To train networks with well-defined behaviors, we introduce ouroboros, a system that constructs verified neural networks for computer systems. Verified neural networks are neural networks that satisfy user-defined safety properties, called specific...",
+    "category": "neural_network_verification",
+    "source": "zenodo",
+    "source_id": 7788500,
+    "doi": "10.5281/zenodo.7788500",
+    "authors": [
+      "Tianhao Wei",
+      "Zhihao Jia",
+      "Changliu Liu",
+      "Cheng Tan"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/7788500",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:04",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artifact for DNNV: A Framework for Deep Neural Network Verification",
+    "description": "Despite the large number of sophisticated deep neural network (DNN) verification algorithms, DNN verifier developers, users, and researchers still face several challenges. First, verifier developers must contend with the rapidly changing DNN field to support new DNN operations and property types. Second, verifier users have the burden of selecting a verifier input format to specify their problem. Due to the many input formats, this decision can greatly restrict the verifiers that a user may r...",
+    "category": "neural_network_verification",
+    "source": "zenodo",
+    "source_id": 4883626,
+    "doi": "10.5281/zenodo.4883626",
+    "authors": [
+      "David Shriver",
+      "Sebastian Elbaum",
+      "Matthew B. Dwyer"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/4883626",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:04",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "MpBP: Verifying Robustness of Neural Networks with   Multi-path Bound Propagation",
+    "description": "Given an input region (often infinite perturbed input set) and a neural network&nbsp;f,&nbsp;bound propagation&nbsp;methods propagate the input region along the neural network to compute a bound function for each neuron, thus the output neuron&nbsp;f. The provable bounds of&nbsp;f&nbsp;are then used to determine whether a misclassification exists in this given input region.\n\nMpBP (Multipath&nbsp;Bound&nbsp;Propagaiton) extends classical bound propagation methods with multiple&nbsp;propagation...",
+    "category": "neural_network_verification",
+    "source": "zenodo",
+    "source_id": 7029261,
+    "doi": "10.5281/zenodo.7029261",
+    "authors": [
+      "Ye Zheng",
+      "Jiaxiang Liu",
+      "Xiaomu Shi"
+    ],
+    "keywords": [
+      "formal verification, neural networks, bound propagation"
+    ],
+    "url": "https://zenodo.org/api/records/7029261",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:04",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artifact: Example Guided Synthesis of Linear Approximations for Neural Network Verification",
+    "description": "This is the artifact for the paper &quot;Example Guided Synthesis of Linear Approximations for Neural Network Verification&quot; published at CAV 2022. The zip file contains a Readme.txt explaining how to use the artifact, and reproduce our results.",
+    "category": "neural_network_verification",
+    "source": "zenodo",
+    "source_id": 6525186,
+    "doi": "10.5281/zenodo.6525186",
+    "authors": [
+      "Brandon Paulsen"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/6525186",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:04",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Artifact for Paper Scalable Verification of GNN-Based Job Schedulers",
+    "description": "Please follow the instructions in the readme to replicate the results in the paper.",
+    "category": "neural_network_verification",
+    "source": "zenodo",
+    "source_id": 7080246,
+    "doi": "10.5281/zenodo.7080246",
+    "authors": [
+      "Wu, Haoze",
+      "Barrett, Clark",
+      "Sharif, Mahmood",
+      "Narodytska, Nina",
+      "Singh, Gagandeep"
+    ],
+    "keywords": [
+      "artifact",
+      "neural network verification",
+      "abstract interpretation",
+      "forward-backward analysis",
+      "graph neural networks"
+    ],
+    "url": "https://zenodo.org/api/records/7080246",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:04",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Reducing DNN Properties to Enable Falsification with Adversarial Attacks",
+    "description": "This artifact accompanies the paper Reducing DNN Properties to Enable Falsification with Adversarial Attacks.\nIn this artifact, we provide the benchmarks and scripts for reproducing the results of our study,\nand we also provide our tool, DNNF&nbsp;for running falsification methods such as adversarial attacks on DNN property specifications specified using the DNNP&nbsp;language of DNNV.\n\nWhile many DNN verification techniques have been introduced in the past few years to enable the checking of...",
+    "category": "neural_network_verification",
+    "source": "zenodo",
+    "source_id": 4439219,
+    "doi": "10.5281/zenodo.4439219",
+    "authors": [
+      "Shriver, David",
+      "Elbaum, Sebastian",
+      "Dwyer, Matthew"
+    ],
+    "keywords": [
+      "neural nets",
+      "formal methods",
+      "falsification",
+      "adversarial attacks"
+    ],
+    "url": "https://zenodo.org/api/records/4439219",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:08",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Incremental Verification of Neural Networks",
+    "description": "Complete verification of deep neural networks (DNNs) can exactly determine whether the DNN satisfies a desired trustworthy property (e.g., robustness, fairness) on an infinite set of inputs or not. Despite the tremendous progress to improve the scalability of complete verifiers over the years on individual DNNs, they are inherently inefficient when a deployed DNN is updated to improve its inference speed or accuracy. The inefficiency is because the expensive verifier needs to be run from scra...",
+    "category": "neural_network_verification",
+    "source": "zenodo",
+    "source_id": 7812282,
+    "doi": "10.5281/zenodo.7812282",
+    "authors": [
+      "Anonymous"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/7812282",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:08",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Specification and Verification of DNN Properties with Domain-Specific Semantics",
+    "description": "DSS ARTIFACT\n\nThis repository can be used to explore all facets of our study, including reproducing the results in two different ways: reproduction with pre-computed data (faster and good to check the overall results) or full-reproduction (slow and good to check intermediate pipeline results). We now provide details on the content of the artifact and instructions on its installation and usage.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 5523377,
+    "doi": "10.5281/zenodo.5523377",
+    "authors": [
+      "Anonymous"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/5523377",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:08",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "CAN-Verify Artifacts",
+    "description": "This zenodo link is the repository for the automated tool CAN-Verify to streamlined the entire underlying process of formal modelling/encoding from BDI agents in CAN language to Bigraphs, model execution in BigraphER tool, and back-end model-checker with PRISM.\n\nThe detailed installation and usage of this tool (and the reproduction of the examples) can be found in README.md.\n\nAny question do not hesitate to drop an email to mengwei.xu@manchester.ac.uk",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 8282684,
+    "doi": "10.5281/zenodo.8282684",
+    "authors": [
+      "Mengwei Xu"
+    ],
+    "keywords": [
+      "Automated verification tool",
+      "Agent programming"
+    ],
+    "url": "https://zenodo.org/api/records/8282684",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:09",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Modelling the Turtle Python library in CSP",
+    "description": "Software verification is an important tool in establishing the reliability of critical systems. One\npotential area of application is in the field of robotics, as robots take on more tasks in both day-to-\nday areas and highly specialised domains. Robots are usually given a plan to follow, if there are\nerrors in this plan it will have negative consequences for the robot&rsquo;s performance. The capability\nto check plans for errors in advance could prevent this. Python is a popular programming l...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 6671802,
+    "doi": "10.5281/zenodo.6671802",
+    "authors": [
+      "MacConville, Dara",
+      "Farrell, Marie",
+      "Luckcuck, Matt",
+      "Monahan, Rosemary"
+    ],
+    "keywords": [
+      "software verification",
+      "python",
+      "turtle"
+    ],
+    "url": "https://zenodo.org/api/records/6671802",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:09",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Robustness Testing of Software Verifiers",
+    "description": "This artifact contains the implementation and data used for the experimental\nevaluation of &quot;Robustness Testing of Software Verifiers&quot;. This includes\nthe tool &quot;semtransforms&quot; which implements the all semantics-preserving\ntransformations proposed in our work. In addition,the preprocessed benchmarks\nused for evaluating the robustness of software verifiers are also available.\nAll generated robustness tests are based on the ReachSafety-Loops category of the SV-COMP 2023.",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 8186536,
+    "doi": "10.5281/zenodo.8186536",
+    "authors": [
+      "Dyck, Florian",
+      "Richter, Cedric",
+      "Wehrheim, Heike"
+    ],
+    "keywords": [
+      "Software Verification",
+      "Robustness",
+      "Testing"
+    ],
+    "url": "https://zenodo.org/api/records/8186536",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:09",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Solver GFT",
+    "description": "This repository contains all the resources and artifacts that support the GFT solver as a plugin in [Flama](https://flamapy.github.io/).",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 7892908,
+    "doi": "10.5281/zenodo.7892908",
+    "authors": [
+      "José Miguel Horcas"
+    ],
+    "keywords": [
+      "Software product line",
+      "Variability model",
+      "Feature model",
+      "Generalized feature tree",
+      "Automated Analysis"
+    ],
+    "url": "https://zenodo.org/api/records/7892908",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Diver: Oracle-Guided SMT Solver Testing with Unrestricted Random Mutations",
+    "description": "Diver is a black-box fuzzer for testing SMT Solvers. The technical details of Diver can be found in our paper accepted to ICSE 2023: &quot;Diver: Oracle-Guided SMT Solver Testing with Unrestricted Random Mutations&quot;\n\nThe artifact is also provided in&nbsp;the Github repository:&nbsp;https://github.com/kupl/Diver-Artifact",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 7632205,
+    "doi": "10.5281/zenodo.7632205",
+    "authors": [
+      "Jongwook Kim",
+      "Sunbeom So",
+      "Hakjoo Oh"
+    ],
+    "keywords": [
+      "Software Testing",
+      "SMT Solver"
+    ],
+    "url": "https://zenodo.org/api/records/7632205",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:16",
+      "resource_type": {
+        "title": "Conference paper",
+        "type": "publication",
+        "subtype": "conferencepaper"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "QSOLE: Automated QBF Equivalence Checking",
+    "description": "QSOLE: Automatic QBF Equivalence Checking\nIntroduction\nThis artifact was submitted by Peter Pfeiffer, Mark Peyrer, Daniel Gro&szlig;e and Martina Seidl for the TACAS 2026 with the submission number 9062 aiming for Available, Functional and Reusable badges. It contains everything necessary to reproduce the examples shown in the corresponding paper alongside testcases to demonstrate basic functionality. In the following sections you will learn everything you need to know about this artifact and...",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 17356608,
+    "doi": "10.5281/zenodo.17356608",
+    "authors": [
+      "Pfeiffer, Peter",
+      "Peyrer, Mark",
+      "Große, Daniel",
+      "Seidl, Martina"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/17356608",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Code to replicate \"Accounting for surge dynamics is key to modeling tropical cyclone-induced coastal flooding\"",
+    "description": "Code to replicate the results (including data preprocessing, analysis, evaluation and plots) of Vogt et al. 2023 (submitted).\nThe main part of the code is contained in evaluation.zip along with a comprehensive README file with information about how to install, how to obtain the necessary input data, and how to run the scripts.\nThe files tc_inundation.zip and climada_petals.zip contain scripts to compute inundated areas from IBTrACS tropical cyclone track data, using the geophysical flow solve...",
+    "category": "other",
+    "source": "zenodo",
+    "source_id": 10419307,
+    "doi": "10.5281/zenodo.10419307",
+    "authors": [
+      "Vogt, Thomas"
+    ],
+    "keywords": [
+      "PIK-RD3",
+      "Software"
+    ],
+    "url": "https://zenodo.org/api/records/10419307",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Design and implementation of QASP Solver",
+    "description": "We present, a new ASP solver called Quantifying over ASP, or briefly QASP, for ASP(Q) problems resolution, i.e. an extensive ASP formalism, inspired by Quantified Boolean Formula, which adds quantifiers over stable models, in order to model PSPACE problem.",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 5425783,
+    "doi": "10.5281/zenodo.5425783",
+    "authors": [
+      "Antonino Natale"
+    ],
+    "keywords": [
+      "answer set programming",
+      "qbf",
+      "polynomial hierarchy"
+    ],
+    "url": "https://zenodo.org/api/records/5425783",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:16",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Skolem CPOG Projected Knowledge Compilation Verifier",
+    "description": "This code supports the generation and certification of the projected knowledge compilation of a Boolean formula. &nbsp;\nThis repository accompanies the paper \"Certified Projected Knowledge Compilation\" by Randal E. Bryant, Yong Kiam Tan, and Marijn J. H. Heule, to be published at the 2025 Conference on the Theory and Applications of SAT Testing (SAT).\nIt contains the following programs\n\nA version of the D4 knowledge compiler modified to generate Skolem assignments to the quantified variables\n...",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 15628075,
+    "doi": "10.5281/zenodo.15628075",
+    "authors": [
+      "Bryant, Randal",
+      "Tan, Yong Kiam"
+    ],
+    "keywords": [
+      "automated reasoning",
+      "knowledge compilation",
+      "program certification"
+    ],
+    "url": "https://zenodo.org/api/records/15628075",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:20",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Verifying OR-of-ANDs is equivalent to NAND-of-NANDs using SMT solvers",
+    "description": "Jupyter notebook to showcase the use of SMT solvers to formalize and verify that an OR-of-ANDs boolean formula can be represented using only NAND gates.\nGitHub link: NAND.ipynb",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 16969159,
+    "doi": "10.5281/zenodo.16969159",
+    "authors": [
+      "Fitzsimmons, Zack",
+      "Hassan, Zohair Raza",
+      "Hemaspaandra, Edith",
+      "Rivero, Carlos R."
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/16969159",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:20",
+      "resource_type": {
+        "title": "Computational notebook",
+        "type": "software",
+        "subtype": "computationalnotebook"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Practical Approximate Quantifier Elimination for Non-linear Real Arithmetic (artefact)",
+    "description": "This submission contains our tool( PAQER ) proposed for quantifier elimination. The folder also contains the benchmarks we created and our results for it. (nra_adt_benchmarks.tar.gz). Download the file and use&nbsp;\ndocker load -i &lt;path/to/file/paqer_image_final.tar&gt;\nto load the image. Detailed instructions on how to run the code( all the experiments or individual experiments ) are provided in detailed README files (RUN_TESTCASE.md). One can also read on how to understand the output in ...",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 12600106,
+    "doi": "10.5281/zenodo.12600106",
+    "authors": [
+      "S. akshay",
+      "Supratik Chakraborty",
+      "R. Govind",
+      "Harshit Jitendra Motwani",
+      "Amir Kafshdar Goharshady",
+      "sai teja varanasi"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/12600106",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:20",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Coq formalization of QRC1",
+    "description": "This is a Coq formalization of the QRC1 quantified modal logic&nbsp;introduced in&nbsp;Quantified Reflection Calculus with one modality and further studied in&nbsp;An Escape from Vardanyan&rsquo;s Theorem. Part of the Coq formalization is described in&nbsp;Towards a Coq formalization of a quantified modal logic.\n\nv1.0.0 includes:\n\n\n\tthe syntax of quantified and strictly positive formulas\n\tthe notion of QRC1 proof\n\ta proof that it is possible to conservatively add extra constants to the langua...",
+    "category": "functional_correctness",
+    "source": "zenodo",
+    "source_id": 8117755,
+    "doi": "10.5281/zenodo.8117755",
+    "authors": [
+      "de Almeida Borges, Ana"
+    ],
+    "keywords": [
+      "Coq",
+      "Verification",
+      "Modal logic",
+      "First-order logic",
+      "Quantified modal logic",
+      "Strictly positive logic"
+    ],
+    "url": "https://zenodo.org/api/records/8117755",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:20",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Boolean condition coverage with evaluation trees",
+    "description": "This is an instance of the LabPal experimental environment. It contains experiments aimed at comparing a new technique for Boolean test input generation to existing tools and algorithms. The artifact has been accepted as complementary material for the paper entitled&nbsp;Test Suite Generation for Boolean Conditions with Equivalence Class Partitioning, published at the FormaliSE 2022 conference.\n\nContext\n\nConsider a Boolean expression &phi; formed of the traditional connectives &and; (&quot;an...",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 6377794,
+    "doi": "10.5281/zenodo.6377794",
+    "authors": [
+      "Hallé, Sylvain"
+    ],
+    "keywords": [
+      "Boolean condition coverage",
+      "test input generation",
+      "equivalence class partitioning"
+    ],
+    "url": "https://zenodo.org/api/records/6377794",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:20",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "Nemo: A Tool to Transform Feature Models with Numerical Features and Arithmetic Constraints",
+    "description": "This is a pre-print, please access and cite the published version:\n\nhttps://doi.org/10.1007/978-3-031-08129-3_4\n\nReal-world Software Product Lines (SPLs) need Numerical Feature Models (NFMs) whose features not only have boolean values satisfying boolean constraints, but also have numeric attributes satisfying arithmetic constraints. A key operation on NFMs finds near-optimal performing products, which requires counting the number of SPL products. Typical constraint satisfaction solvers perfor...",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 6657675,
+    "doi": "10.5281/zenodo.6657675",
+    "authors": [
+      "Daniel-Jesus Munoz",
+      "Jeho Oh",
+      "Monica Pinto",
+      "Lidia Fuentes",
+      "Don Batory"
+    ],
+    "keywords": [
+      "feature model",
+      "bit-blasting",
+      "propositional formula",
+      "numerical features",
+      "model counting",
+      "software product lines"
+    ],
+    "url": "https://zenodo.org/api/records/6657675",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:20",
+      "resource_type": {
+        "title": "Preprint",
+        "type": "publication",
+        "subtype": "preprint"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "NEMO: A Tool to Support Feature Models with Numerical Features and Arithmetic Constraints",
+    "description": "Your can watch the live presentation my Youtube channel:\n\nhttps://youtu.be/V-ONW8PftwM\n\nPlease, cite the publication of this presentation:\n\nhttps://doi.org/10.1007/978-3-031-08129-3_4\n\nReal-world Software Product Lines (SPLs) need Numerical Feature Models (NFMs) whose features not only have boolean values satisfying boolean constraints, but also have numeric attributes satisfying arithmetic constraints. A key operation on NFMs finds near-optimal performing products, which requires counting th...",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 6672326,
+    "doi": "10.5281/zenodo.6672326",
+    "authors": [
+      "Daniel-Jesus Munoz",
+      "Jeho Oh",
+      "Monica Pinto",
+      "Lidia Fuentes",
+      "Don Batory"
+    ],
+    "keywords": [
+      "feature model",
+      "bit-blasting",
+      "propositional formula",
+      "numerical features",
+      "model counting",
+      "software product lines"
+    ],
+    "url": "https://zenodo.org/api/records/6672326",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:20",
+      "resource_type": {
+        "title": "Presentation",
+        "type": "presentation"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "NEMO: A Tool to Support Feature Models with Numerical Features and Arithmetic Constraints",
+    "description": "Your can watch this video in my Youtube channel:\n\nhttps://youtu.be/V-ONW8PftwM\n\nThis is a Live Conference Presentation, please access and cite the published version of the respective publication:\n\nhttps://doi.org/10.1007/978-3-031-08129-3_4\n\nReal-world Software Product Lines (SPLs) need Numerical Feature Models (NFMs) whose features not only have boolean values satisfying boolean constraints, but also have numeric attributes satisfying arithmetic constraints. A key operation on NFMs finds nea...",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 6672342,
+    "doi": "10.5281/zenodo.6672342",
+    "authors": [
+      "Daniel-Jesus Munoz",
+      "Jeho Oh",
+      "Monica Pinto",
+      "Lidia Fuentes",
+      "Don Batory"
+    ],
+    "keywords": [
+      "feature model",
+      "bit-blasting",
+      "propositional formula",
+      "numerical features",
+      "model counting",
+      "software product lines"
+    ],
+    "url": "https://zenodo.org/api/records/6672342",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:20",
+      "resource_type": {
+        "title": "Video/Audio",
+        "type": "video"
+      },
+      "version": "beta-extract"
+    }
+  },
+  {
+    "name": "colomoto/colomoto-docker: 2025-12-01",
+    "description": "Fetch and run this image using\npip install -U colomoto-docker\ncolomoto-docker -V 2025-12-01\n\nPackages\n| Package | Version | Description |\n| --- | --- | --- |\n| BNS | 1.3 | Identification of synchronous attractors |\n| BoNesis | 0.6.9 | Synthesis of Boolean Networks from architecture and dynamical properties |\n| BooleanNet | 1.2.8 | Simulation of Boolean regulatory networks |\n| boolSim | 1.2 | Attractors and reachable sets in synchronous and asynchronous Boolean networks |\n| boolSim-python | 0....",
+    "category": "qbf_solver",
+    "source": "zenodo",
+    "source_id": 17783807,
+    "doi": "10.5281/zenodo.17783807",
+    "authors": [
+      "Loïc Paulevé",
+      "Aurélien Naldi",
+      "Celine Hernandez",
+      "Samuel Pastva",
+      "Gérald Point",
+      "actions-user",
+      "Kyungduk Moon",
+      "John Zobolas",
+      "Laura Szekeres",
+      "Vincent Noël"
+    ],
+    "keywords": [],
+    "url": "https://zenodo.org/api/records/17783807",
+    "license": "open",
+    "metadata": {
+      "crawled_at": "2026-01-20 17:17:20",
+      "resource_type": {
+        "title": "Software",
+        "type": "software"
+      },
+      "version": "beta-extract"
+    }
+  }
+]
